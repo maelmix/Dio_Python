@@ -1,5 +1,7 @@
 Curso_Python_Pandas_Digital_Innovation
+
 Repositório do Curso análise de dados com Python e Pandas da Digital Innovation One
+
 Estudo feito por MicHael Barbosa
 
  **Assuntos abordados neste curso**:
