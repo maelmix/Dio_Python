@@ -1,7 +1,7 @@
 import openai
 
 # Substitua 'sua-api-key-aqui' pela sua chave da API
-openai.api_key = 'sk-JXVJINzfSV29CBz5zpWJT3BlbkFJNvg9bBZ5ODJ'
+openai.api_key = 'api'
 
 def chat_with_gpt4(prompt):
     try:
